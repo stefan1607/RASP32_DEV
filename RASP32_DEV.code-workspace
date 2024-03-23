@@ -1,9 +1,7 @@
 {
 	"folders": [
 		{
-			"uri": "vscode-remote://ssh-remote+192.168.178.41/home/pi/sts_iot_dev/RASP32_DEV/.git/RASP32_DEV"
+			"path": "."
 		}
-	],
-	"remoteAuthority": "ssh-remote+192.168.178.41",
-	"settings": {}
+	]
 }
